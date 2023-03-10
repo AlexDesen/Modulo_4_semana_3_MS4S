@@ -2,7 +2,7 @@
 
 """
 OLÁ PROFESSOR, NÃO CONSIGO GERAR UM TESTE
-"POSITIVO" MESMO ISERINDO OS VALORES CORRETOS NA FUNÇÃO, APONTA O MEU ERRO, OBRIGADO.
+"POSITIVO" MESMO INSERINDO OS VALORES CORRETOS NA FUNÇÃO, APONTA O MEU ERRO, OBRIGADO.
 """
 '''
 NÃO ACISTIR A TUA AULA AO VIVO POIS A MESMA 
@@ -25,6 +25,5 @@ def teste(valor_unitario, quantidade):
 
 def test_teste():
         
-    assert teste(100,10) == 950
-   
+    assert teste(100,10) == 9500
     
